@@ -55,7 +55,7 @@ thanks to the translators.
 
 ## 🚀 <a name="deploy"></a>Deploy
 
-[![Deploy] (https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteamtry/musicplayer/tree/branch1))
+[![Deploy (https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/disneyteamtry/musicplayer/tree/branch1)
 
 
 Note: `First Fork The Repo Then Click On Deploy To Heroku Button!`
